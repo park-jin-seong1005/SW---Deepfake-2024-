@@ -137,5 +137,8 @@ Feature Extraction → Voice Probability
 - 모델의 결정 경계 개선
 - 실제 환경의 다양한 케이스 대응
 
+##  자료
+
+<img width="1202" height="2260" alt="image" src="https://github.com/user-attachments/assets/8633f6ac-fffc-471f-a7fc-9d8ffb115218" />
 
 
